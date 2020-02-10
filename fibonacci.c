@@ -3,7 +3,7 @@
 #include<stdio.h>
 int main()
 {
-int n,m;
+int n,m,a,b,c;
 
 //how many numbers you want enter here
 printf("how many number you want : ");
