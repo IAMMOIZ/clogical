@@ -6,11 +6,11 @@ int a,b,temp;
 
 //get first number from user
 printf("Enter first number : ");
-Scanf("%d",&a);
+scanf("%d",&a);
 
 //get first number from user
 printf("Enter second number : ");
-Scanf("%d",&b);
+scanf("%d",&b);
 
 //main logic of swapping 
 temp = a;
