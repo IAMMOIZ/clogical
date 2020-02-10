@@ -3,5 +3,7 @@
 3- reverse an array-filename[arrayReverse.c]
 4- fibonacci series upto nth digits[fibonacci.c]
 5- fibonacci series to nth terms[fibonacci_limit.c]
-6- fibonacci series upto nth digits[fibonacci_recursion.c]pending
-7- fibonacci series to nth terms[fibonacci_recursion_nthterms.c]pending
+6- fibonacci series upto nth digits using recursion[fibonacci_recursion.c]pending
+7- fibonacci series to nth terms using recursion[fibonacci_recursion_nthterms.c]pending
+8- print your name without using semicolon in program[printNamewithoutSemicolon.c]
+9- print semicolon without using semicolon[semicolonwithoutusingsemicolon.c]
