@@ -8,3 +8,4 @@
 8- print your name without using semicolon in program[printNamewithoutSemicolon.c]
 9- print semicolon without using semicolon[semicolonwithoutusingsemicolon.c]
 10- wap to add two numbers in c[add_two_num.c]
+11- wap to calculate n power of a number[num_pow.c]
