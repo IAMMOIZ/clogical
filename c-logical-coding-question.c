@@ -1,11 +1,69 @@
-1- swap two numbers by using thired variable-filename[swaptwonumberbyusingthired.c]
-2- swap two number without using thired variabel-filename[swaptwovarWithoutusingThired.c]
-3- reverse an array-filename[arrayReverse.c]
-4- fibonacci series upto nth digits[fibonacci.c]
-5- fibonacci series to nth terms[fibonacci_limit.c]
-6- fibonacci series upto nth digits using recursion[fibonacci_recursion.c]pending
-7- fibonacci series to nth terms using recursion[fibonacci_recursion_nthterms.c]pending
-8- print your name without using semicolon in program[printNamewithoutSemicolon.c]
-9- print semicolon without using semicolon[semicolonwithoutusingsemicolon.c]
-10- wap to add two numbers in c[add_two_num.c]
-11- wap to calculate n power of a number[num_pow.c]
+1.c => write a program to print hellow world.
+2.c => write a program to add number and print sum of the number.
+3.c => write a program to get two numbers from the user and print sum of both numbers
+4.c => write a program to print simple interest.
+5.c => program to accept value of radious and print area of circle.
+6.c => program to get number from user and print square and cube of the number.
+7.c => program to accept two number and swap them by using thired variable.(temprary variable)
+8.c => program to accept two number and swap them without using thired variable.
+9.c => program to accept two number and swap them using oprator.
+10.c => program to accept two number print largest among them.
+11.c => program to accept a number and check whether a number is possitive , negative and zero.
+12.c => program to accept the number and check whether number is even or odd.
+13.c => program to accept three number and print them in ascending and decending order.
+14.c => write a program to find root of the quadraic equations.
+15.c => program to print n even numbers.(sum of even numbers in the range).
+16.c => program to print n odd number or n even numbers.
+17.c => program to accept a number from the user and print sum of all the digits of the number.
+18.c => program to accept a number and print reverse number.
+19.c => program to accept a number and print number is pallindrom of not .
+20.c => program to accept a number from user and check whether it is armstrong number or not.
+21.c => program to take number and print its multiplication table.
+22.c => take a number from user and print factorial of the number.
+23.c => program to check number is prime or composite.
+24.c => print all the prime number between the range.
+25.c => find sum of n number without using array.
+26.c => find average of two numbers
+27.c => find average of n numbers without using array.
+28.c => find squre of a number by using pre defined function.
+29.c => find all factor of a number by using pre defined function.
+30.c => find square root of a number by using pdf.
+31.c => find square root of a number without using pdf.
+32.c => find all factor of the number .
+33.c => fibonacci series upto n elements.
+34.c => find power of the number by using pdf.
+35.c => find power of the number without using pdf
+36.c => find cube of the number by using pdf.
+37.c => find cube of the number without using pdf.
+38.c => program to take a number and check whether the number is amicable number or not.
+39.c => program to accept two number and print gcd(greatest common devisior).
+40.c => gcd of n number without using array.
+41.c => lcm of two numbers
+42.c => lcm of nth numbers without using array.
+43.c => find lcm and hcf[gcd] of two number.
+44.c => find large number among the three numbers by using ternary oprator.
+45.c => find large among n numbers without array.
+46.c => program to check whether the number is neon or not.
+47.c => program to check whether number is neven number or harshed number.
+48.c => program to check number is pallindrom or not.
+49.c => program to check perfact number.
+50.c => program to print sum of nth prime number.
+51.c => factorial series.
+52.c => taylor series.
+53.c => program to swap two number using pointer.
+54.c => program to add two numbers by using pointer.
+55.c => program to print and add first and last idgits of the number.
+56.c => find area of triangle by usign herons formula.
+57.c => program to check a year is leap year or not.
+58.c => program to fird ncr or npr.
+59.c => program to newton raphson general.
+60.c => simpsons 1/3 rules.
+61.c => numerical spral pattern.
+62.c => program to print semicolon winthout using semicolon.
+63.c => convert number into words.
+64.c => generate a random numbers.
+65.c => program to add n numbers n numbers of times.
+66.c => print 1 to n number without using loop.
+67.c => find perfact numbers.
+68.c =>c program to calcualte quatient and remainders.
+69.c => calculate compound interest.
