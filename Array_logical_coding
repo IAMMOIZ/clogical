@@ -1,0 +1,49 @@
+1. Find the sum of all given elements from an int array
+2. Find the min element from the given int array
+3. Find the max element from the given int array
+4. Find the 2nd min element from the given int array
+5. Find the 2nd max element from the given int array
+6. Find the average value of an int array
+7. Find out the sum of all even indexed elements from a given int array
+8. Find out the sum of all odd indexed elements from a given int array
+9. Find out the min value from all even indexed elements from a given int array
+10.Find out the max value from all odd indexed elements from a given int array
+11.Find out the avg value from all even indexed elements from a given int array
+12.Find out the avg value from all odd indexed elements from a given int array
+13.Find out the sum of all elements from a first half of given int array
+14.Find out the sum of all elements from a second half of given int array
+15.Find out the min value from a first half of given int array
+16.Find out the min value from a second half of given int array
+17.Find out the max value from a first half of given int array
+18.Read all elements from an array in the reverse order
+19.Read first half of the elements in the reverse direction from an array
+20.Read second half of the elements in the reverse direction from an array
+21.Read only even indexed elements from an array
+22.Read only even indexed elements from an array in the reverse order
+23.Read only odd indexed elements from an array
+24.Find out an index of a specified element from a given array
+25.Swap two given indexed elements from the array
+26.Swap two given indexed elements from the array without using thired variable.
+27.reverse the array by using thired variable
+28.Reverse the elements of given array without using thired variable
+29.Reverse only first half of the elements of given array without temp variable
+30. Reverse only last half of the elements of given array without using temp variable
+31.Reverse only even indexed of the elements of given array without using temp variable
+32.Reverse only Odd indexed of the elements of given array without using temp variable
+33.Swap odd indexed elements with its immediate next even indexed elements of given array
+34.Do right shift by one for elements of given array
+35.Do right shift by two for elements of given array
+36.Do left shift by one for elements of given array
+37.Do left shift by two for elements of given array
+38.Do right rotate by one for elements of given array
+39.Do right rotate by two for elements of given array
+40.
+
+----------------------------------------------------------------------------
+1-> array declaraion and initialization
+2-> array declaation , initalization and accessing of array elements
+3-> print whole array using for loop
+4-> print whole array using foreach loop
+5-> print whole array using toString() method of Arrays class
+6-> get all element of array from user as well as size of the array
+7-> default values of all premitive types of array
